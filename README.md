@@ -12,4 +12,5 @@ Implementation of a custom linear regressor using gradient descent is required, 
 # Training Process Experimentation: 
 Plotting the loss against the number of iterations for the gradient-descent-based linear regressor elucidates the learning process. Injecting noise into inputs and parameters aids in understanding the model's robustness and sensitivity to perturbations. This exercise provides insights into overfitting, underfitting, and generalization capabilities.
 
-Use-case Suggestion: Understanding noise effects on model performance is crucial in applications like predictive maintenance systems. Predictive maintenance relies on accurate predictions for scheduling maintenance tasks efficiently. By comprehending noise impact, more robust predictive maintenance models can be developed, enhancing equipment reliability and reducing downtime.
+# Use-case Suggestion: 
+Understanding noise effects on model performance is crucial in applications like predictive maintenance systems. Predictive maintenance relies on accurate predictions for scheduling maintenance tasks efficiently. By comprehending noise impact, more robust predictive maintenance models can be developed, enhancing equipment reliability and reducing downtime.
